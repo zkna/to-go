@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/to-go.iml" filepath="$PROJECT_DIR$/.idea/to-go.iml" />
-      <module fileurl="file://$PROJECT_DIR$/to-learn-java/to-learn-java.iml" filepath="$PROJECT_DIR$/to-learn-java/to-learn-java.iml" />
-    </modules>
-  </component>
-</project>
